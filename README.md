@@ -2,7 +2,7 @@
 
 Um jogo Snake completo desenvolvido em Go como projeto de estudo para aprender os fundamentos e conceitos avançados da linguagem.
 
-![Go Version](https://img.shields.io/badge/Go-1.20+-00ADD8?style=flat&logo=go)
+![Go Version](https://img.shields.io/badge/Go-1.25.3-00ADD8?style=flat&logo=go)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-complete-success)
 
@@ -170,7 +170,7 @@ Aplicação:
 
 ### Pré-requisitos
 
-- Go 1.20 ou superior
+- Go 1.25.3
 - Git
 
 ### 1. Clone o Repositório
@@ -344,7 +344,7 @@ func (t *ToneGenerator) Stream(samples [][2]float64) (n int, ok bool) {
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Go 1.20+
+- **Linguagem:** Go 1.25.3
 - **Terminal UI:** [termbox-go](https://github.com/nsf/termbox-go)
 - **Áudio:** [beep](https://github.com/faiface/beep)
 - **Ferramentas:** Go Modules
@@ -391,8 +391,8 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 Desenvolvido como projeto de estudo em Go.
 
 **Contato:**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu-email@exemplo.com
+- GitHub: [@mfugissecruz](https://github.com/mfugissecruz)
+- Email: mfugissecruz@gmail.com
 
 ---
 
